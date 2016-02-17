@@ -40,6 +40,10 @@
         {
           "allowSingleLine": true
         }
+      ],
+      "comma-dangle": [
+        1,
+        "always-multiline"
       ]
     },
     "overrides": [
