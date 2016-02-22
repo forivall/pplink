@@ -4,7 +4,7 @@
   "version": "0.0.0",
   "dependencies": {},
   "scripts": {
-    "lint": "xo src/**",
+    "lint": "xo {lib,bin}/**/*.js *.js",
     "inspect": "jsinspect",
     "pretest": "npm run lint && npm run inspect",
     "test": "ava",
