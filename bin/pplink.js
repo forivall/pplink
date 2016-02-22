@@ -47,7 +47,7 @@ function program(argv) {
 
   function exit(err) {
     if (err) console.error(err.stack || err);
-    process.exit(err ? 0 : 1);
+    process.exit(err ? 1 : 0);
   }
 }
 
