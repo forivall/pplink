@@ -1,6 +1,6 @@
 {
-  "name": "$NAME",
-  "description": "$DESCRIPTION",
+  "name": "pplink",
+  "description": "Pseudo package link - extracted from lerna - create links to packages without symlinks",
   "version": "0.0.0",
   "dependencies": {},
   "scripts": {

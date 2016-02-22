@@ -1,14 +1,14 @@
-# $NAME
+# pplink
 
-$DESCRIPTION
+Pseudo package link - extracted from lerna - create links to packages without symlinks
 
-[![build status](https://secure.travis-ci.org/forivall/$NAME.svg)](http://travis-ci.org/forivall/$NAME)
-[![dependency status](https://david-dm.org/forivall/$NAME.svg)](https://david-dm.org/forivall/$NAME)
+[![build status](https://secure.travis-ci.org/forivall/pplink.svg)](http://travis-ci.org/forivall/pplink)
+[![dependency status](https://david-dm.org/forivall/pplink.svg)](https://david-dm.org/forivall/pplink)
 
 ## Installation
 
 ```
-npm install --save $NAME
+npm install --save pplink
 ```
 
 ## Usage
