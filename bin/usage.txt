@@ -1,0 +1,14 @@
+Usage: pplink [options] <source> [<destination>]
+
+When specified with no arguments, `node-repl` is loaded.
+
+Options:
+
+--help, -h
+    Show this message
+
+--relative, -r
+    Create a link using the relative path instead of the absolute path
+
+--name
+    Override the name used for the directory and in the package.json

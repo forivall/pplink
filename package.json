@@ -2,7 +2,13 @@
   "name": "pplink",
   "description": "Pseudo package link - extracted from lerna - create links to packages without symlinks",
   "version": "0.0.0",
-  "dependencies": {},
+  "bin": {
+    "pplink": "./bin/pplink.js"
+  },
+  "dependencies": {
+    "minimist": "^1.2.0",
+    "mkdirp": "^0.5.1"
+  },
   "scripts": {
     "lint": "xo {lib,bin}/**/*.js *.js",
     "inspect": "jsinspect",
