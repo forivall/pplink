@@ -1,7 +1,7 @@
 {
   "name": "pplink",
   "description": "Pseudo package link - extracted from lerna - create links to packages without symlinks",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "bin": {
     "pplink": "./bin/pplink.js"
   },
