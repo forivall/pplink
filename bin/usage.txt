@@ -1,7 +1,5 @@
 Usage: pplink [options] <source> [<destination>]
 
-When specified with no arguments, `node-repl` is loaded.
-
 Options:
 
 --help, -h
@@ -12,3 +10,6 @@ Options:
 
 --name
     Override the name used for the directory and in the package.json
+
+--save, --save-dev, --save-optional, --save-bundle
+    Save the dependency in the destination's package.json
