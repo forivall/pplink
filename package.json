@@ -8,7 +8,7 @@
   "dependencies": {
     "minimist": "^1.2.0",
     "mkdirp": "^0.5.1",
-    "sort-keys": "^1.1.1",
+    "sort-keys": "^5.0.0",
     "update-package-json": "0.0.0"
   },
   "scripts": {
